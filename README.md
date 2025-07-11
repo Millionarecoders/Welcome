@@ -29,4 +29,4 @@ Learn Python. Build Projects. Earn Money.
 - Project ideas
 
 ## 💬 Community
-- Join our [https://whatsapp.com/channel/0029Vb6QUSwHwXb3VU4if70r](link)
+- Join our [https://whatsapp.com/channel/0029Vb6QUSwHwXb3VU4If70r](link)
